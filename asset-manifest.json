@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/tesla-clone/static/css/main.5489edc8.css",
+    "main.js": "/tesla-clone/static/js/main.32d965fa.js",
+    "static/js/787.3b70ba07.chunk.js": "/tesla-clone/static/js/787.3b70ba07.chunk.js",
+    "static/media/backpack-icon.png": "/tesla-clone/static/media/backpack-icon.265c0d86805f4fe7d7e9.png",
+    "static/media/charging-icon.png": "/tesla-clone/static/media/charging-icon.02696362083fcd8ffc45.png",
+    "static/media/powerwall-icon.png": "/tesla-clone/static/media/powerwall-icon.0d087b48784e070b99b2.png",
+    "static/media/solarpanels-icon.png": "/tesla-clone/static/media/solarpanels-icon.85d5ef28b5e6afa47f38.png",
+    "static/media/models-home.jpg": "/tesla-clone/static/media/models-home.1b216dda374272d49752.jpg",
+    "static/media/model3-home.jpg": "/tesla-clone/static/media/model3-home.3194986d5856e03dd248.jpg",
+    "static/media/baseballcap-icon.png": "/tesla-clone/static/media/baseballcap-icon.89d6c29a8ff60b5914d6.png",
+    "static/media/modely-home.jpg": "/tesla-clone/static/media/modely-home.e2959b512684153b6258.jpg",
+    "static/media/modelx-icon.webp": "/tesla-clone/static/media/modelx-icon.93e4621a1cac8cc32bef.webp",
+    "static/media/homecharging-icon.png": "/tesla-clone/static/media/homecharging-icon.0855ed4d8d2953385333.png",
+    "static/media/model3-icon.jpg": "/tesla-clone/static/media/model3-icon.a7e6565f6d881be8a3f0.jpg",
+    "static/media/carwheel-icon.png": "/tesla-clone/static/media/carwheel-icon.17c180f1c3987ae65abf.png",
+    "static/media/modelx-home.jpg": "/tesla-clone/static/media/modelx-home.11e135be4a3370756e72.jpg",
+    "static/media/models-icon.jpg": "/tesla-clone/static/media/models-icon.1a0d7d7cc6e07d56a816.jpg",
+    "static/media/supercharger-icon.png": "/tesla-clone/static/media/supercharger-icon.670d0f1a2444997fffdf.png",
+    "static/media/teslalogo-small.png": "/tesla-clone/static/media/teslalogo-small.8f9ac3364e14b3cc4907.png",
+    "index.html": "/tesla-clone/index.html",
+    "main.5489edc8.css.map": "/tesla-clone/static/css/main.5489edc8.css.map",
+    "main.32d965fa.js.map": "/tesla-clone/static/js/main.32d965fa.js.map",
+    "787.3b70ba07.chunk.js.map": "/tesla-clone/static/js/787.3b70ba07.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5489edc8.css",
+    "static/js/main.32d965fa.js"
+  ]
+}
